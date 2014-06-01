@@ -10,7 +10,7 @@ body{
 }
 
 .orange{
-	color:orange;
+	color:grey;
 }
 
 a hover{
@@ -18,12 +18,12 @@ a hover{
 }
 
 h1, h2{
-	color:purple;
+	color:fuchsia;
 }
 
 #footer{
 	padding:20px;
-	background:rgb(77,28,27);
+	background:black;
 	color: white;
 }
 
